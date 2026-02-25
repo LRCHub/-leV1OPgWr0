@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "すばらしい日々",
+  "base_artist": "UNICORN",
+  "createdAt": "2026-02-25T13:23:07.292126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すばらしい日々",
+      "artist": "折原臨也(神谷浩史)",
+      "has_synced": true,
+      "path": "select/01_すばらしい日々_折原臨也(神谷浩史).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "すばらしい日々",
+      "artist": "Unicorn",
+      "has_synced": true,
+      "path": "select/02_すばらしい日々_Unicorn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "すばらしい日々",
+      "artist": "折原臨也 (神谷浩史)",
+      "has_synced": true,
+      "path": "select/03_すばらしい日々_折原臨也_(神谷浩史).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すばらしい日々",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_01_すばらしい日々_UNICORN.txt"
+    }
+  ]
+}
